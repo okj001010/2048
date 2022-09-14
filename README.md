@@ -14,3 +14,5 @@ U: 실행취소, R: 원상복귀
 P: 인공지능 (자동실행)
 
 N: 새로운 게임, X: 게임 종료
+
+![2048](https://user-images.githubusercontent.com/42437315/190087060-12130aea-daf8-493c-a6bf-16ad500a45f3.png)
